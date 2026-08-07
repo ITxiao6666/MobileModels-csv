@@ -9319,12 +9319,21 @@ V2550,mob,vivo,vivo,,PD2539F,V70 FE,
 V2551,mob,vivo,vivo,,PD2539F,V70 FE,
 V2552,mob,vivo,vivo,,PD2539F,V70 FE,
 V2558,mob,vivo,vivo,,PD2539F,V70 FE,
+V2584,mob,vivo,vivo,,,V70 Lite,
+V2604,mob,vivo,vivo,,,V70 Lite,
+V2627,mob,vivo,vivo,,,V70 Lite,
+V2634,mob,vivo,vivo,,,V70 Lite,
+V2635,mob,vivo,vivo,,,V70 Lite,
 V2615,mob,vivo,vivo,,PD2512F,V70 Lite 5G,
 V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,
+V2576,mob,vivo,vivo,,,V80 Lite 5G,
+V2643,mob,vivo,vivo,,,V80 Lite 5G,
+V2644,mob,vivo,vivo,,,V80 Lite 5G,
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,
 vivo 1920_20,mob,vivo,vivo,,PD1945F,S1 Pro,
+V2576,mob,vivo,vivo,,,S2,
 V2153,mob,vivo,vivo,,PD2201F,T1,
 V2168,mob,vivo,vivo,,PD2201F,T1,
 V2141,mob,vivo,vivo,,PD2165F,T1 5G,
@@ -9545,6 +9554,11 @@ V2402,mob,vivo,vivo,,,Y300 Pro 5G,
 V2455,mob,vivo,vivo,,PD2470F,Y400,
 V2506,mob,vivo,vivo,,PD2469F,Y400 5G,
 V2439,mob,vivo,vivo,,PD2451F,Y400 Pro 5G,
+V2570,mob,vivo,vivo,,,Y500,
+V2584,mob,vivo,vivo,,,Y500,
+V2627,mob,vivo,vivo,,,Y500,
+V2634,mob,vivo,vivo,,,Y500,
+V2635,mob,vivo,vivo,,,Y500,
 I1927,mob,vivo,vivo,,PD1964F,iQOO 3,4G
 I1928,mob,vivo,vivo,,PD1955F,iQOO 3 5G,
 I2009,mob,vivo,vivo,,PD2049F,iQOO 7,Global
@@ -10209,13 +10223,13 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank)
 25078RA3EY,mob,xiaomi,小米,P15A,dew,REDMI 15C,国际版 (NFC)
 25078RA3EE,mob,xiaomi,小米,P15A,dew,REDMI 15C,欧洲版
 25078RA3EL,mob,xiaomi,小米,P15A,dew,REDMI 15C,拉美版
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国行版
 2508CRN2BG,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国际版
 2508CRN2BE,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,欧洲版
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
 2602BRNA4I,mob,xiaomi,小米,P25,somalia,REDMI 15A 5G,印度版
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,国行版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -10926,8 +10940,8 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,REDMI 17C,
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -11516,10 +11530,10 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank)
 2508CRN2BG,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Global
 2508CRN2BE,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Europe
 2508CRN2BI,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,India
-2508CRN2BC,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,China
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China
 2602BRNA4I,mob,xiaomi,Xiaomi,P25,somalia,REDMI 15A 5G,India
+2602BRNA4C,mob,xiaomi,Xiaomi,P25,somalia,REDMI 17 5G,China
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM)
