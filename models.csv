@@ -3926,6 +3926,8 @@ STG-LX2,mob,huawei,HUAWEI,,Santiago,HUAWEI nova 14i,
 PSN-LX9,mob,huawei,HUAWEI,,Pushkin,HUAWEI nova 15,Pro
 KLE-LX9,mob,huawei,HUAWEI,,Klee,HUAWEI nova 15 Pro,
 CHZ-LX1,mob,huawei,HUAWEI,,Chenzhen,HUAWEI nova 15 Max,
+EMA-LX9,mob,huawei,HUAWEI,,Emilia,HUAWEI nova 16s,
+CRS-LX9,mob,huawei,HUAWEI,,Chris,HUAWEI nova 16s Pro,
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,
@@ -4078,6 +4080,7 @@ PCE-W29,pad,huawei,HUAWEI,,Poincare,HUAWEI MatePad Pro 13.2,Wi-Fi
 WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,Wi-Fi
 MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,Wi-Fi
 MRDI-W09,pad,huawei,HUAWEI,,Morandi,HUAWEI MatePad Pro 12.2 2025,Wi-Fi
+DAL-W09,pad,huawei,HUAWEI,,Dali,HUAWEI MatePad Pro 12,Wi-Fi
 GEM-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro Max,13.2 Wi-Fi
 MLR-W09,pad,huawei,HUAWEI,,Mclaren,HUAWEI MatePad Mini,8.8 Wi-Fi
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,Wi-Fi
@@ -4923,6 +4926,14 @@ L65MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,65 Mini LED 2026
 L75MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,75 Mini LED 2026
 L85MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,85 Mini LED 2026
 L98MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,98 Mini LED 2026
+L65MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,65 RGB-Mini LED 2027
+L65MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,65 RGB-Mini LED 2027 至尊版
+L75MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,75 RGB-Mini LED 2027
+L75MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,75 RGB-Mini LED 2027 至尊版
+L85MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,85 RGB-Mini LED 2027
+L85MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,85 RGB-Mini LED 2027 至尊版
+L98MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,98 RGB-Mini LED 2027
+L98MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,98 RGB-Mini LED 2027 至尊版
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,65 英寸
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,75 英寸
 L55M6-TM,tv,mitv,小米,,,小米透明电视,55 英寸
