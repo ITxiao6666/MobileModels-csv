@@ -2043,6 +2043,10 @@ LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,
 BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,
 PNM-AN10,mob,honor,荣耀,,Phenom,荣耀 Magic V6,
 PNM-AN20,mob,honor,荣耀,,Phenom,荣耀 Magic V6,16GB+1TB
+MLY-AN00,mob,honor,荣耀,,Molly,荣耀 Magic9,
+MLM-AN00,mob,honor,荣耀,,MollyM,荣耀 Magic9 超能版,
+WKL-AN20,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,
+WKL-AN80,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,16GB+1TB
 APH-AN00,mob,honor,荣耀,,Alpha,荣耀 Robot Phone,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版
@@ -2658,7 +2662,9 @@ IVY-B39,watch,honor,荣耀,,,荣耀手表 GS 5,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,
 LWS-WB10,watch,honor,荣耀,,,荣耀手表 X5,
 WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,
+WSS-B19,watch,honor,荣耀,,,荣耀手表 X5s,
 ROM-B19,watch,honor,荣耀,,,荣耀手表 6 Plus,
+HLO-B19,watch,honor,荣耀,,,荣耀手表 6 Pro,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版
@@ -4049,6 +4055,9 @@ MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑
 LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,晨曦金
 LCA-B29,watch,huawei,华为,,Luca,HUAWEI WATCH D2,星云蓝
+RIV-B10,watch,huawei,华为,,,HUAWEI WATCH D3,曜石黑
+RIV-B11,watch,huawei,华为,,,HUAWEI WATCH D3,羽砂金
+RIV-B12,watch,huawei,华为,,,HUAWEI WATCH D3,摩卡金
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,
 LBA-B19,watch,huawei,华为,,,HUAWEI WATCH Buds 2,
 MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,532
@@ -5418,12 +5427,16 @@ L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,50 2025 节能版 (二�
 L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,55 2025 节能版 (二级能效)
 L65RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,65 2025 节能版 (二级能效)
 L75RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,75 2025 节能版 (一级能效)
-L43RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,43 2026
-L50RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,50 2026
-L55RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,55 2026
-L65RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,65 2026
-L70RB-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2025,70 2026
-L75RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,75 2026
+L43RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,43 2026
+L50RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,50 2026
+L55RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,55 2026
+L65RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,65 2026
+L70RB-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2026,70 2026
+L75RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,75 2026
+L55RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,55 2027 优选版
+L65RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,65 2027 优选版
+L75RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,75 2027 优选版
+L85RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,85 2027 优选版
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,50 (2020)
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,55 (2020)
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,65 (2020)
@@ -6623,6 +6636,9 @@ PLG120,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,卫星通信版
 PME110,mob,oppo,OPPO,,venus,OPPO Find X9s Pro,
 PMA110,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,
 PMA120,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,卫星通信版
+PMW110,mob,oppo,OPPO,,,OPPO Find X10,
+PNA110,mob,oppo,OPPO,,aurora,OPPO Find X10 E,
+PMX110,mob,oppo,OPPO,,,OPPO Find X10 Pro Max,
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
@@ -6876,6 +6892,7 @@ OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 OWW262,watch,oppo,OPPO,,,OPPO Watch S,
 OWW261,watch,oppo,OPPO,,taycan,OPPO Watch X3,
 OWW263,watch,oppo,OPPO,,,OPPO Watch X3 Mini,
+OWW265,watch,oppo,OPPO,,,OPPO Watch S2,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
@@ -8234,6 +8251,11 @@ SM-S948Z,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (SoftBank)
 SM-S948C,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (Rakuten Mobile)
 SCG37,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (au)
 SC-53G,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (NTT Docomo)
+SM-S741B,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Global
+SM-S741U,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Carrier
+SM-S741U1,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Unlocked
+SM-S741W,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Canada
+SM-S741N,mob,samsung,Samsung,,r14s,Galaxy S26 FE,South Korea
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,US Unlocked
@@ -8500,6 +8522,10 @@ SM-A075M,mob,samsung,Samsung,,a07,Galaxy A07,Latin America
 SM-A076E,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
 SM-A076B,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
 SM-A076M,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Latin America
+SM-A077F,mob,samsung,Samsung,,a07ve,Galaxy A07s,Global
+SM-A077M,mob,samsung,Samsung,,a07ve,Galaxy A07s,Latin America
+SM-A085F,mob,samsung,Samsung,,a08,Galaxy A08,Global
+SM-A085M,mob,samsung,Samsung,,a08,Galaxy A08,Latin America
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,Global
@@ -8586,6 +8612,9 @@ SM-A176U1,mob,samsung,Samsung,,a17x,Galaxy A17 5G,US Unlocked
 SM-S176V,mob,samsung,Samsung,,a17x,Galaxy A17 5G,TracFone
 SM-A176W,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Canada
 SM-A1760,mob,samsung,Samsung,,a17x,Galaxy A17 5G,HK & TW
+SM-A185F,mob,samsung,Samsung,,a18,Galaxy A18,Global (Exynos)
+SM-A185N,mob,samsung,Samsung,,a18,Galaxy A18,South Korea
+SM-A185G,mob,samsung,Samsung,,a18m,Galaxy A18,Global (MediaTek)
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,Global
@@ -8850,6 +8879,7 @@ SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,
 SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,
 SM-M066B,mob,samsung,Samsung,,a06x,Galaxy M06 5G,
 SM-M075F,mob,samsung,Samsung,,a07,Galaxy M07,
+SM-M085F,mob,samsung,Samsung,,a08,Galaxy M08,
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,Global
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,India
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,Latin America
@@ -8917,6 +8947,7 @@ SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,
 SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,
 SM-E066B,mob,samsung,Samsung,,a06x,Galaxy F06 5G,
 SM-E075F,mob,samsung,Samsung,,a07,Galaxy F07,
+SM-E085F,mob,samsung,Samsung,,a08,Galaxy F08,
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,
@@ -8936,6 +8967,7 @@ SM-E556B,mob,samsung,Samsung,,m55xq,Galaxy F55 5G,
 SM-E566B,mob,samsung,Samsung,,m56x,Galaxy F56 5G,
 SM-E625F,mob,samsung,Samsung,,f62,Galaxy F62,
 SM-E076B,mob,samsung,Samsung,,a07x,Galaxy F70e 5G,
+SM-E476B,mob,samsung,Samsung,,,Galaxy F70 Pro 5G,
 SM701,mob,smartisan,坚果,,sfo,Smartisan T1,3G 版
 SM705,mob,smartisan,坚果,,sfo,Smartisan T1,4G 版
 SM801,mob,smartisan,坚果,,icesky,Smartisan T2,
@@ -9350,6 +9382,11 @@ V2547A,mob,vivo,vivo,,PD2547,X300 Ultra,
 V2547DA,mob,vivo,vivo,,PD2547,X300 Ultra,卫星通信版
 V2612A,mob,vivo,vivo,,PD2612,X300 E,
 V2545A,mob,vivo,vivo,,PD2545,X Fold6,
+V2609A,mob,vivo,vivo,,PD2609,X500,
+V2608A,mob,vivo,vivo,,PD2608,X500 Pro,
+V2608DA,mob,vivo,vivo,,PD2608,X500 Pro,eSIM 版
+V2602A,mob,vivo,vivo,,PD2602,X500 Pro Max,
+V2602DA,mob,vivo,vivo,,PD2602,X500 Pro Max,卫星通信版
 V1831A,mob,vivo,vivo,,PD1831,S1,全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,全网通版
@@ -9680,7 +9717,8 @@ iPA2556,pad,vivo,vivo,,DPD2437,iQOO Pad5,
 iPA2575,pad,vivo,vivo,,DPD2438,iQOO Pad5 Pro,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,
-iPA2673,pad,vivo,vivo,,,iQOO Pad6 Pro,
+iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,
+iPA2691,pad,vivo,vivo,,,iQOO Pad Ultra,
 WA2052,watch,vivo,vivo,,,WATCH,42mm
 WA2056,watch,vivo,vivo,,,WATCH,46mm
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版
@@ -9692,6 +9730,8 @@ WA2556A,watch,vivo,vivo,,,WATCH 5,蓝牙版
 WA2556B,watch,vivo,vivo,,,WATCH 5,eSIM 版
 WA2536A,watch,vivo,vivo,,,WATCH GT 2,蓝牙版
 WA2536B,watch,vivo,vivo,,,WATCH GT 2,eSIM 版
+WA2656A,watch,vivo,vivo,,,WATCH 6,蓝牙版
+WA2656B,watch,vivo,vivo,,,WATCH 6,eSIM 版
 iWA2356A,watch,vivo,vivo,,,iQOO WATCH,eSIM 版
 iWA2356C,watch,vivo,vivo,,,iQOO WATCH,蓝牙版
 iWA2456A,watch,vivo,vivo,,,iQOO WATCH GT,eSIM 版
